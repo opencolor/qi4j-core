@@ -32,8 +32,8 @@
   <url>http://www.qi4j.org/</url>
 
   <scm>
-    <connection>scm:git://dscm.ops4j.org/qi4j-core.git</connection>
-    <developerConnection>scm:git:git@dscm.ops4j.org:qi4j-core.git</developerConnection>
+    <connection>scm:git://github.com/qi4j/core.git</connection>
+    <!--<developerConnection>scm:git://github.com/qi4j/core.git</developerConnection>-->
   </scm>
 
 
