@@ -33,7 +33,7 @@
 
   <scm>
     <connection>scm:git://github.com/qi4j/core.git</connection>
-    <!--<developerConnection>scm:git://github.com/qi4j/core.git</developerConnection>-->
+    <developerConnection>scm:git://github.com/qi4j/core.git</developerConnection>
   </scm>
 
 
